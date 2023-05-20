@@ -1,5 +1,5 @@
 title: "CSS Battle #<number> – <Problem Name>"
-labels: ["CSS Battles"]
+labels: [CSS Battles]
 body:
   - type: input
     id: number
